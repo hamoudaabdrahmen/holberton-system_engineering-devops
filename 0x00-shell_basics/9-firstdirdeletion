@@ -1,3 +1,5 @@
 #!/bin/bash
-rmdir/tmp/holberton
+rmdir holberton /tmp/holberton
+
+
 
