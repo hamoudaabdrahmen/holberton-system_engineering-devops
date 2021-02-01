@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "$((trueknowlege))+128))\n"
+printf "$((TRUKNOWLEGE))+128))\n"
